@@ -1,0 +1,60 @@
+[33mcommit bc0c9f4ef40e55171b7e04b2ac1bb0a32db05981[m
+Merge: 900ad20 f94140c
+Author: Shtanko Dmytro <Dmytro_Shtanko@epam.com>
+Date:   Thu Dec 3 11:55:11 2015 +0200
+
+    Merge branch 'master' into branch_Shtanko
+
+[33mcommit f94140ca628aa10083798786a628d6f1f4bbda36[m
+Author: Shtanko Dmytro <Dmytro_Shtanko@epam.com>
+Date:   Thu Dec 3 11:46:26 2015 +0200
+
+    assign to the master
+
+[33mcommit 900ad20280f55a89db6733d7fe0dcff3087d3dbc[m
+Author: Shtanko Dmytro <Dmytro_Shtanko@epam.com>
+Date:   Thu Dec 3 11:34:57 2015 +0200
+
+    third commit
+
+[33mcommit f5359531d41b8a4d8af803ebd1f4724a8d375d68[m
+Author: Shtanko Dmytro <Dmytro_Shtanko@epam.com>
+Date:   Thu Dec 3 11:33:59 2015 +0200
+
+    second commit with second class
+
+[33mcommit 2486d9df451fb9fae9c4828953332d801c41091a[m
+Author: Shtanko Dmytro <Dmytro_Shtanko@epam.com>
+Date:   Thu Dec 3 11:32:08 2015 +0200
+
+    first commit with correct data
+
+[33mcommit 4e3de2fea0042bfb0b9047e6728238f262ae4cfb[m
+Author: Shtanko Dmytro <Dmytro_Shtanko@epam.com>
+Date:   Tue Dec 1 13:19:27 2015 +0200
+
+    third commit
+
+[33mcommit b561819a69085565d565093fdcdd341947163024[m
+Author: Shtanko Dmytro <Dmytro_Shtanko@epam.com>
+Date:   Tue Dec 1 13:17:09 2015 +0200
+
+    after all + 1 new file
+
+[33mcommit 6b74c389b95487f38b104a29339d6f1b549937e7[m
+Author: Shtanko Dmytro <Dmytro_Shtanko@epam.com>
+Date:   Tue Dec 1 13:15:34 2015 +0200
+
+    second changes
+
+[33mcommit fb14e0b27b470fa4f93c7c524db8576117109cd1[m
+Author: Shtanko Dmytro <Dmytro_Shtanko@epam.com>
+Date:   Tue Dec 1 13:14:08 2015 +0200
+
+    first changes
+
+[33mcommit 66e1dcb33109efc33190ad08c7d6dde72b6f6047[m
+Author: Shtanko Dmytro <Dmytro_Shtanko@epam.com>
+Date:   Tue Dec 1 13:11:55 2015 +0200
+
+    new files created
