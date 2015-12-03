@@ -10,3 +10,5 @@ end
 
 class Greeter
 	
+
+class Greeter 3
